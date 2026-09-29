@@ -6,3 +6,4 @@
 ## Project
 - :octocat:．chess-blocks-traps．[GitHub](https://github.com/Mcc-Mak/chess-blocks-traps.git)
 - :octocat:．digimon-rpg $${\\color{red}（WIP）}$$．[GitHub](https://github.com/Mcc-Mak/digimon-rpg.git)
+- :octocat:．cicd-pipeline $${\\color{red}（WIP）}$$．[GitHub](https://github.com/Mcc-Mak/cicd-pipeline.git)
