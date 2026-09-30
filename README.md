@@ -1,11 +1,15 @@
-# TOCTREE
+# 目錄
 
-## Profile
-<img src="https://th-thumbnailer.cdn-si-edu.com/uFK2PPu26wPdJ5weXf6mpKIAkXw=/1026x684/filters:focal(4381x2523:4382x2524)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/58/e058c2c2-b1d9-491c-abf5-973844b211a0/gettyimages-171399380.jpg" width="50%" alt="App Screenshot">
+## 簡介
+|名稱|圖片|
+|:---|:---|
+|:octocat:<br/>__小熊貓__|<img src="https://th-thumbnailer.cdn-si-edu.com/uFK2PPu26wPdJ5weXf6mpKIAkXw=/1026x684/filters:focal(4381x2523:4382x2524)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/58/e058c2c2-b1d9-491c-abf5-973844b211a0/gettyimages-171399380.jpg" width="40%" alt="App Screenshot">|
+|:octocat:<br/>__浣熊__|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegUWT45ErZLCEyj19q77AyHhMNElnDwyLFLdiNjA6mlgmXHdgquY1T3s&s=10" width="40%" alt="App Screenshot">|
 
-## GitHub Project
-|Project|Progress|GitHub Repository|
+## GitHub 專案
+|專案|進度|GitHub 儲存庫|
 |:---|:---|:---|
-|:octocat: **chess-blocks-traps**|[![](https://img.shields.io/badge/progress-completed-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/chess-blocks-traps.git)|
-|:octocat: **cicd-pipeline**|[![](https://img.shields.io/badge/progress-completed-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/cicd-pipeline.git)|
-|:octocat: **digimon-rpg**|[![](https://img.shields.io/badge/progress-wip-red)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/digimon-rpg.git)|
+|:octocat: **chess-blocks-traps**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/chess-blocks-traps.git)|
+|:octocat: **cicd-pipeline**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/cicd-pipeline.git)|
+|:octocat: **digimon-rpg**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/digimon-rpg.git)|
+|:octocat: **gmail-nested-labels**|[![](https://img.shields.io/badge/進度-進行中-red)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/gmail-nested-labels.git)|
