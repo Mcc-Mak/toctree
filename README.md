@@ -12,5 +12,5 @@
 |:octocat: **chess-blocks-traps**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/chess-blocks-traps.git)|
 |:octocat: **cicd-pipeline**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/cicd-pipeline.git)|
 |:octocat: **digimon-rpg**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/digimon-rpg.git)|
-|:octocat: **gmail-nested-labels**|[![](https://img.shields.io/badge/進度-完成-green)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/gmail-nested-labels.git)|
+|:octocat: **gmail-nested-labels**|[![](https://img.shields.io/badge/進度-進行中-orange)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/gmail-nested-labels.git)|
 |:octocat: **hk-guided-tour**|[![](https://img.shields.io/badge/進度-進行中-orange)]()|[![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/hk-guided-tour.git)|
