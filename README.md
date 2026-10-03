@@ -10,7 +10,7 @@
 | 類別 (Categories) | 角色 / 專長 (Roles / Focus) | 技能 (Skills - 概念與語言) | 工具與技術 (Tools & Technologies) | 部署環境 (On/Off-Premises) | 架構層級 (Architecture Tier) | 對應專案 (Associated Projects) |
 |---|---|---|---|---|---|---|
 | 基礎設施 (Infrastructure) | 全端 / 後端與網路架構師 | C#、Java、網路程式設計、Socket 通訊、多執行緒、網頁架構、API 設計、物件關聯對映 (ORM) | C# .NET、Java (Socket API)、Java Spring Boot、PHP Laravel、Python Flask、Python Django、LAMP 堆疊、MERN 堆疊、Docker、Docker Compose、OpenCode | 地端與雲端 (On-Premises & Cloud) | 後端 / 資料庫 / 網路 | booking-system-dotnet-demo、booking-system-springboot-demo、socket-server-demo、rpg-demo、chess-demo、booking-system-demo |
-| 人工智慧 (AI) | AI 工程師 / 開發者 | 機器學習整合、AI 提示詞工程 | OpenCode | 雲端 (Off-Premises) | 全端 / 後端 | tour-guide-demo、studio-demo |
+| 人工智慧 (AI) | AI 工程師 / 開發者 | 多代理人工作流程編排、AI 管線設計、規格制定、機器學習整合、AI 提示詞工程 | Manus、CrewAI、OpenCode | 雲端 (Off-Premises) | 全端 / 後端 | tour-guide-demo、studio-demo、Manus-built webapp |
 | DevOps | DevOps 工程師 / SRE | CI/CD 管道、基礎設施即程式碼 (IaC)、自動化監控、警報系統 | GitHub Actions、GitLab CI/CD、Ansible、Telegram API、Gmail API | 混合 / 地端與雲端 | 基礎設施 | 所有儲存庫 / CI 管道 |
 | 雲端 (Cloud) | 雲端 / 全端開發者 | 伺服器端運算 (Serverless)、靜態網站託管、腳本自動化 | GitHub Pages、Google Apps Script (GAS)、Firebase、clasp | 雲端 (Off-Premises) | 前端 / 後端 / 託管 | busking-demo、booking-system-demo、event-registration-form、gmail-labels |
 | 專業知識 (Knowledge) | 資安與網路分析師 | 資訊安全、網路管理、風險管理、威脅分析 | CompTIA Network+、(ISC)2 CISSP | 地端 / 專業認證 | 資安 / 網路 | security-certs、準備筆記 |
