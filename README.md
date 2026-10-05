@@ -22,6 +22,8 @@
 | :octocat: **digimon-rpg** | [![](https://img.shields.io/badge/進度-完成-green)]() | [![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/digimon-rpg.git) | [![](https://img.shields.io/badge/網頁-上線-green)](https://mcc-mak.github.io/digimon-rpg/) | [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Mcc-Mak_digimon-rpg)](https://sonarcloud.io/summary/new_code?id=Mcc-Mak_digimon-rpg) |
 | :octocat: **chess-blocks-traps** | [![](https://img.shields.io/badge/進度-完成-green)]() | [![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/chess-blocks-traps.git) | [![](https://img.shields.io/badge/網頁-上線-green)](https://mcc-mak.github.io/chess-blocks-traps/) | [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Mcc-Mak_chess-blocks-traps)](https://sonarcloud.io/summary/new_code?id=Mcc-Mak_chess-blocks-traps) |
 | :octocat: **hk-guided-tour** | [![](https://img.shields.io/badge/進度-進行中-orange)]() | [![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/hk-guided-tour.git) | `（不適用）` | `（不適用）` |
+| :octocat: **opencode-workflow-demo** | [![](https://img.shields.io/badge/進度-進行中-orange)]() | [![](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Mcc-Mak/opencode-workflow-demo.git) | `（不適用）` | [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Mcc-Mak_opencode-workflow-demo)](https://sonarcloud.io/summary/new_code?id=Mcc-Mak_opencode-workflow-demo) |
+
 
 ---
 
